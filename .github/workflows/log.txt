@@ -1,0 +1,50 @@
+UserID: 5052398493 | Time: 2024-09-25 06:44:41.224367 | Command: /bgmi | Target: 20.204.19.47 | Port: 10873 | Time: 30
+Username: @hilloeis
+Target: 20.204.19.47
+Port: 10873
+Time: 30
+UserID: 5052398493 | Time: 2024-09-25 06:45:27.890616 | Command: /bgmi | Target: 20.204.19.47 | Port: 10873 | Time: 30
+Username: @hilloeis
+Target: 20.204.19.47
+Port: 10873
+Time: 30
+UserID: 5052398493 | Time: 2024-09-25 06:49:38.052287 | Command: /bgmi | Target: 20.235.93.186 | Port: 18484 | Time: 60
+Username: @hilloeis
+Target: 20.235.93.186
+Port: 18484
+Time: 60
+UserID: 5052398493 | Time: 2024-09-25 06:56:07.104324 | Command: /bgmi | Target: 20.204.191.71 | Port: 10375 | Time: 120
+Username: @hilloeis
+Target: 20.204.191.71
+Port: 10375
+Time: 120
+UserID: 5052398493 | Time: 2024-09-25 07:11:48.895940 | Command: /bgmi | Target: 20.235.89.47 | Port: 25894 | Time: 120
+Username: @hilloeis
+Target: 20.235.89.47
+Port: 25894
+Time: 120
+UserID: 5052398493 | Time: 2024-09-25 07:20:49.719085 | Command: /bgmi | Target: 20.235.89.47 | Port: 25894 | Time: 120
+Username: @hilloeis
+Target: 20.235.89.47
+Port: 25894
+Time: 120
+UserID: 5052398493 | Time: 2024-09-25 07:22:20.436971 | Command: /bgmi | Target: 20.204.17.153 | Port: 10343 | Time: 120
+Username: @hilloeis
+Target: 20.204.17.153
+Port: 10343
+Time: 120
+UserID: 5052398493 | Time: 2024-09-25 07:32:06.023698 | Command: /bgmi | Target: 4.213.68.240 | Port: 29861 | Time: 180
+Username: @hilloeis
+Target: 4.213.68.240
+Port: 29861
+Time: 180
+UserID: 5052398493 | Time: 2024-09-25 07:43:22.839338 | Command: /bgmi | Target: 20.219.163.85 | Port: 14480 | Time: 120
+Username: @hilloeis
+Target: 20.219.163.85
+Port: 14480
+Time: 120
+UserID: 5052398493 | Time: 2024-09-25 07:47:51.296843 | Command: /bgmi | Target: 20.219.163.85 | Port: 14480 | Time: -120
+Username: @hilloeis
+Target: 20.219.163.85
+Port: 14480
+Time: -120
